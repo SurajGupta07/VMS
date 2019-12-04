@@ -1,12 +1,12 @@
-This project was created by ronald ngoda
-email:ronniengoda@gmail.com
-website:ronaldngoda.is-best.net
-phone:+254708344101
+This project was created by Suraj
+email:surajbg07@gmail.com
+website:https://surajgupta07.github.io/SURAJ-BG/
+phone:+91 9844788227
 
 
 
 ===========ABOUT PROJECT============
-This is an online gate pass management system.With this, management of visitors and activities at the gate of an organisation or institution is absolutely easy.The system has a wide array of interesting features like
+This is an online viitor management system.With this, management of visitors and activities at the gate of an organisation or institution is absolutely easy.The system has a wide array of interesting features like
 You can register gate guards as the admin who will be managing different gates
 Management of visitors,individual visitors and group visitors.You can keep track of the entry and exit times of all visitors including staff
 You can register staff members also into the system
